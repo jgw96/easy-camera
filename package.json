@@ -1,0 +1,16 @@
+{
+  "name": "easy-camera",
+  "version": "0.0.1",
+  "description": "V1 custom element wrapping getUserMedia and making it easy peasy",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint easy-camera.js"
+  },
+  "author": "Justin Willis <jgw9617@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.16.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-plugin-html": "^2.0.1"
+  }
+}
