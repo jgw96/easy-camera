@@ -2,7 +2,7 @@
   "name": "easy-camera",
   "version": "0.0.1",
   "description": "V1 custom element wrapping getUserMedia and making it easy peasy",
-  "main": "index.js",
+  "main": "easy-camera.js",
   "scripts": {
     "lint": "eslint easy-camera.js"
   },
